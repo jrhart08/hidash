@@ -1,0 +1,22 @@
+{
+  "name": "hidash",
+  "version": "1.0.0",
+  "description": "An off-broadway function library for when you can't find something in lodash",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrhart08/hidash.git"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "Joseph Hart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrhart08/hidash/issues"
+  },
+  "homepage": "https://github.com/jrhart08/hidash#readme"
+}
